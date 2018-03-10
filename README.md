@@ -1,4 +1,4 @@
-## TwitterLite
-Design and Implement a mini version of Twitter (GUI)
+# TwitterLite
+###Design and Implement a mini version of Twitter (GUI)
 
 
