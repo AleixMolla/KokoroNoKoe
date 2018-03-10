@@ -1,4 +1,4 @@
-# KokoroNoKoe ( "A void of heart" ) 
+# KokoroNoKoe ( "A voice of heart" ) 
 ### Design and Implement a mini version of Twitter (GUI)
 
 ## INSTRUCTIONS:
